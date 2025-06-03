@@ -6,7 +6,7 @@
 ## 👨‍💻 Sobre mim
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas pelo IF Goiano – Campus Iporá (2024)
-- 📍 De Palestina de Goiás – prefiro trabalhar remotamente
+- 📍 Disponível para trabalho remoto
 - 🎯 Buscando minha primeira oportunidade como Dev Front-end Júnior
 - 💬 Gosto de aprender, compartilhar e transformar ideias em soluções reais
 
