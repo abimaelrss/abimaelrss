@@ -1,23 +1,37 @@
-# 👋 Olá, eu sou o Abimael Rodrigues Sousa Silva!
-
-Sou um desenvolvedor front-end em formação com foco em interfaces modernas e experiências intuitivas. Apaixonado por tecnologia e pelo poder que ela tem de transformar ideias em soluções reais. Atualmente, estou me preparando para ingressar no mercado como Dev Júnior, revisando conteúdos essenciais da stack e desenvolvendo projetos evolutivos.
+<h1 align="center">Olá! Eu sou o Abimael Rodrigues 👨‍🌾</h1>
+<p align="center">Desenvolvedor Front-end em formação • Focado em criar soluções com propósito 🚀</p>
 
 ---
 
-## 🛠️ Tecnologias que estou estudando
+## 👨‍💻 Sobre mim
 
-- HTML5, CSS3 e JavaScript ES6+
-- React.js (com Vite)
-- Git e GitHub
-- Figma (para leitura de protótipos)
-- Boas práticas de UI/UX
-- APIs REST
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas pelo IF Goiano – Campus Iporá (2024)
+- 📍 De Palestina de Goiás – prefiro trabalhar remotamente
+- 🎯 Buscando minha primeira oportunidade como Dev Front-end Júnior
+- 💬 Gosto de aprender, compartilhar e transformar ideias em soluções reais
+
+---
+
+## 🧰 Tecnologias que estou estudando
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,git,github,vite,figma" />
+</div>
 
 ---
 
 ## 📌 Projetos em destaque
 
 > Em breve: novos projetos evolutivos à medida que avanço na minha jornada como desenvolvedor!
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abimaelrss&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abimaelrss&layout=compact&theme=tokyonight" height="150" />
+</div>
 
 ---
 
@@ -29,7 +43,9 @@ Sou um desenvolvedor front-end em formação com foco em interfaces modernas e e
 
 ---
 
-### ✨ Curiosidade
+<p align="center">🌱 Continuando minha jornada como cowboy tecnológico 🤠</p>
+
+## ✨ Curiosidade
 Estou em transição para o mercado de tecnologia. Meu objetivo é trabalhar remotamente e contribuir com projetos que façam a diferença!
 
 ---
