@@ -1,53 +1,25 @@
-<h1 align="center">Olá! Eu sou o Abimael Rodrigues 👨‍🌾</h1>
-<p align="center">Desenvolvedor Front-end em formação • Focado em criar soluções com propósito 🚀</p>
+# 👋 Olá! Eu sou o Abimael Rodrigues
+
+Sou um desenvolvedor em transição de carreira para a área de tecnologia, com formação em Análise e Desenvolvimento de Sistemas e muita vontade de aprender e crescer.
+
+Atualmente, estou revisando toda a base de TI enquanto coloco em prática o que aprendo com projetos reais. Meu foco inicial é no desenvolvimento web com HTML, CSS, JavaScript, e React.
+
+Aqui você vai encontrar:
+- Repositórios de estudos e anotações técnicas 📘
+- Projetos práticos em desenvolvimento 💻
+- Uma jornada real e transparente de aprendizado contínuo 🚀
+
+## 🚀 Tecnologias e Ferramentas que estou estudando:
+- HTML, CSS, JavaScript
+- React.js (Front-end)
+- Node.js (Back-end)
+- Git e GitHub
+
+## 📌 Me acompanhe:
+- GitHub: [abimaelrss](https://github.com/abimaelrss)
+- LinkedIn: [abimaelrss-dev](https://www.linkedin.com/in/abimaelrss-dev)
 
 ---
 
-## 👨‍💻 Sobre mim
+> “Persistência, disciplina e ação são os passos que me aproximam do meu objetivo.”
 
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas pelo IF Goiano – Campus Iporá (2024)
-- 📍 Disponível para trabalho remoto
-- 🎯 Buscando minha primeira oportunidade como Dev Front-end Júnior
-- 💬 Gosto de aprender, compartilhar e transformar ideias em soluções reais
-
----
-
-## 🧰 Tecnologias que estou estudando
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,git,github,vite,figma" />
-</div>
-
----
-
-## 📌 Projetos em destaque
-
-> Em breve: novos projetos evolutivos à medida que avanço na minha jornada como desenvolvedor!
-
----
-
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abimaelrss&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abimaelrss&layout=compact&theme=tokyonight" height="150" />
-</div>
-
----
-
-## 📫 Onde me encontrar
-
-- Email: abimaelrss@gmail.com  
-- LinkedIn: [linkedin.com/in/abimaelrss](https://www.linkedin.com/in/abimaelrss/)  
-- GitHub: [github.com/abimaelrss](https://github.com/abimaelrss)
-
----
-
-<p align="center">🌱 Continuando minha jornada como cowboy tecnológico 🤠</p>
-
-## ✨ Curiosidade
-Estou em transição para o mercado de tecnologia. Meu objetivo é trabalhar remotamente e contribuir com projetos que façam a diferença!
-
----
-
-> "Se você quer ir rápido, vá sozinho. Se quer ir longe, vá acompanhado." – E aqui estamos juntos nessa jornada, rumo ao mercado dev! 🚀
